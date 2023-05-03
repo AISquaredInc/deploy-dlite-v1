@@ -1,2 +1,3 @@
-# deploy-dlite-v1
-Docker container code to deploy all dlite-v1 models
+# Deploy DLite V1
+
+This repository contains resources to build a docker container to deploy all DLite V1 models
