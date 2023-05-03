@@ -106,9 +106,8 @@ def deploy_model(
     )
 
 @click.command()
-@click.argument('model')
-def main(model):
-    deploy_model(model)
+def main():
+    deploy_model()
 
 if __name__ == '__main__':
     main()
